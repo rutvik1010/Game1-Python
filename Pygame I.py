@@ -168,4 +168,6 @@ def g_loop():
                 game_intro()
         pygame.display.update()
         clock.tick(60)
-game_intro()
+
+if __name__ == '__main__':
+    game_intro()
