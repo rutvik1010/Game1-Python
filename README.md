@@ -1,4 +1,4 @@
-# PYTHON2
+
 
 First python project using Pygame.
 
